@@ -15,22 +15,3 @@ A simple, console-based Bank Management System built in modern C++. It features 
 
   Simple Console UI
    Clean, menu-driven text interface for easy navigation.
-
-📌 Example Main Menu :-
-
-====================================
-           Main Menu Screen
-====================================
-[1] Show Client List.
-[2] Add New Client.
-[3] Delete Client.
-[4] Update Client Info.
-[5] Find Client.
-[6] Transactions.
-[7] Manage Users.
-[8] Logout.
-====================================
-
-⚙️ Tech Stack
- Language: C++ (OOP-focused).
-Console application.
