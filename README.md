@@ -1,7 +1,8 @@
 Bank Management System (C++ Console App)
 
 A simple, console-based Bank Management System built in modern C++. It features a secure User Login System and a clear text-based interface for managing clients and transactions.
-🔑 Key Features
+
+🔑 Key Features :
 
    User Login & Management
    Authenticate users before accessing the system.
