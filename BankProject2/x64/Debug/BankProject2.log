@@ -1,0 +1,8 @@
+﻿  BankProject2.cpp
+C:\Users\fsoci\OneDrive\Desktop\Advanced Cpp & DSA\BankProject2\BankProject2\BankProject2.cpp(64,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\fsoci\OneDrive\Desktop\Advanced Cpp & DSA\BankProject2\BankProject2\BankProject2.cpp(866,1): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+C:\Users\fsoci\OneDrive\Desktop\Advanced Cpp & DSA\BankProject2\BankProject2\BankProject2.cpp(908,1): warning C4715: 'DeleteUserByUsername': not all control paths return a value
+C:\Users\fsoci\OneDrive\Desktop\Advanced Cpp & DSA\BankProject2\BankProject2\BankProject2.cpp(988,1): warning C4715: 'UpdateUserByUsername': not all control paths return a value
+C:\Users\fsoci\OneDrive\Desktop\Advanced Cpp & DSA\BankProject2\BankProject2\BankProject2.cpp(948,1): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+C:\Users\fsoci\OneDrive\Desktop\Advanced Cpp & DSA\BankProject2\BankProject2\BankProject2.cpp(1015,1): warning C4715: 'DepositBalanceToClientByAccountNumber': not all control paths return a value
+  BankProject2.vcxproj -> C:\Users\fsoci\OneDrive\Desktop\Advanced Cpp & DSA\BankProject2\x64\Debug\BankProject2.exe
